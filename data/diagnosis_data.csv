@@ -1,0 +1,21 @@
+fever,cough,shortness_of_breath,chest_pain,fatigue,headache,nausea,vomiting,diagnosis
+1,1,1,0,1,0,0,0,Respiratory-like condition
+1,1,0,0,1,0,0,0,Respiratory-like condition
+1,1,1,0,0,0,0,0,Respiratory-like condition
+0,1,1,0,1,0,0,0,Respiratory-like condition
+1,0,1,0,1,0,0,0,Respiratory-like condition
+1,0,0,0,1,1,0,0,General infection-like condition
+1,0,0,0,1,0,0,0,General infection-like condition
+1,0,0,0,0,1,0,0,General infection-like condition
+1,0,0,0,1,1,1,0,General infection-like condition
+0,0,0,1,1,0,0,0,Cardiac-like condition
+0,0,1,1,1,0,0,0,Cardiac-like condition
+0,0,0,1,0,0,0,0,Cardiac-like condition
+0,0,1,1,0,0,0,0,Cardiac-like condition
+0,0,0,0,1,1,1,1,Gastrointestinal-like condition
+0,0,0,0,0,0,1,1,Gastrointestinal-like condition
+0,0,0,0,1,0,1,1,Gastrointestinal-like condition
+0,0,0,0,0,1,1,0,Gastrointestinal-like condition
+0,0,0,0,1,0,0,0,General symptom pattern
+0,0,0,0,0,1,0,0,General symptom pattern
+0,0,0,0,0,0,0,0,No specific pattern
